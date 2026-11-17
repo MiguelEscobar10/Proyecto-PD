@@ -2,6 +2,10 @@
 
 % Programa para calcular integrales definidas.
 
+%Miguel Alberto Escobar Estrada 00401624
+%Mario Alexander Molina Fuentes 00372624
+%Ricardo Alberto Pineda Hernández 00378824
+
 % Predicado para calcular la integral:
 % definida(Funcion, A, B, Resultado)
 
